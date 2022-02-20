@@ -1,4 +1,8 @@
-111
-222
-333
-444
+{
+	"name":"Yoana",
+	"last_name":"Smolka",
+	"age":28,
+	"pet":0,
+	"salary":1200
+
+}
