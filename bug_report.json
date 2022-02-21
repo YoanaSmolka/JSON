@@ -1,1 +1,24 @@
+{
+  "Summary":"The error message doesn't disappear after filling in the required fields on the main page"
+  "STR":
+      {
+          "1":"Go to main page",
+          "2":"Click on the Next button",
+          "3":"Fill in the required fields" 
+      },
+  "AR":"The error messages remained",
+  "ER":"No error messages",
+  
 
+
+
+
+
+
+
+
+
+
+
+
+}
