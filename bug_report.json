@@ -1,8 +1,8 @@
 {
   "Summary":"The error message doesn't disappear after filling in the required fields on the main page"
-  "Bug description:
+  "Bug description":
       {  
-          STR":
+          "STR":
         {
           "1":"Go to main page",
           "2":"Click on the Next button",
